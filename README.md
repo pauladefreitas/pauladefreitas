@@ -6,6 +6,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,spring,java,py,terraform,azure,powershell,kubernetes,docker" />
+    <img src="https://skillicons.dev/icons?i=typescript,react,java,spring,git,py,terraform,azure,powershell,kubernetes,docker" />
   </a>
 </p>
